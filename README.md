@@ -17,7 +17,7 @@ Application designed to assist the user in learning morse code.
 
 ## Setup
 * Install [AndroidStudio](https://developer.android.com/studio/).
-* Download Source-Directory.zip<a id="raw-url" href="https://raw.githubusercontent.com/SkylordGrove/Morse-Code-MobileApp/master/Source-Directory.zip">Download FILE</a> and unzip it.
+* Download <a id="raw-url" href="https://raw.githubusercontent.com/SkylordGrove/Morse-Code-MobileApp/Source-Directory.zip">Source-Directory.zip</a> and unzip it.
 * Open the resulting file within Android Studio.
 
 ## Current Goals
