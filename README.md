@@ -1,4 +1,25 @@
 # Morse-Code-MobileApp
+Application designed to assist the user in learning morse code.
 
-## Current Efforts:
-Due to problems with text centering and other beautification features, this code needs to be refactored to instead utilize an xml file for its "view" functionality.
+## Table of Contents:
+* [General Info](#general-info)
+* [Technologies Used](#technologies-used)
+* [Setup](#setup)
+* [Current Goals](#current-goals)
+
+## General Info
+* Developers: Drew Grove (SkylordGrove)
+
+## Technologies Used
+* Primary Language: Java
+* Minimum SDK: API 21 - Android 5.0 (Lollipop)
+* Test Device: Pixel 3a API 33 (Emulator)
+
+## Setup
+* Install [AndroidStudio](https://developer.android.com/studio/).
+* Download Source_Directory.zip and unzip it.
+* Open the resulting file within Android Studio.
+
+## Current Goals
+* Refactor code to more thoroughly utilize an XML file for beautification purposes.
+* Merge the "dot" and "dash" buttons into a single button.
